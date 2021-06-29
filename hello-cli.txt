@@ -1,4 +1,4 @@
-Hello World + 45
+Hello World
 
 
 The world is fun and breezy
